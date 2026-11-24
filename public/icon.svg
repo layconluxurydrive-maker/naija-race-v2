@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0a0c10" />
+    </linearGradient>
+    <linearGradient id="apex" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#dc2626" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)" />
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#1e293b" stroke-width="18" />
+  <path d="M124 352 L256 112 L388 352 L322 352 L256 226 L190 352 Z" fill="url(#apex)" />
+  <path d="M214 352 L256 274 L298 352 Z" fill="#f59e0b" />
+  <rect x="144" y="374" width="224" height="14" rx="7" fill="#38bdf8" />
+</svg>

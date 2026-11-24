@@ -1,0 +1,6 @@
+{
+  "name": "NAIJA RUN",
+  "description": "A real-time 3D arcade circuit car racing game built with Three.js, featuring procedural PBR race cars, AI rivals, drift boost physics, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
